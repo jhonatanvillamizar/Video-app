@@ -1,0 +1,1 @@
+Aplicacion de video, donde se visualiza como se como se consume una API utilizando los hooks useState, useEffect. 
